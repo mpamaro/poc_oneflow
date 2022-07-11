@@ -1,0 +1,31 @@
+PODS:
+  - 1Flow (0.1.42):
+    - 1Flow/Survey (= 0.1.42)
+  - 1Flow/Survey (0.1.42)
+  - Flutter (1.0.0)
+  - flutter_1flow_sdk (1.1.5):
+    - 1Flow
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_1flow_sdk (from `.symlinks/plugins/flutter_1flow_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - 1Flow
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_1flow_sdk:
+    :path: ".symlinks/plugins/flutter_1flow_sdk/ios"
+
+SPEC CHECKSUMS:
+  1Flow: 66aa90ae83f93cfa4ed96e9de86985dd6ba574b2
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_1flow_sdk: fedfee5eaa4332da741cd1e9eb071fc0ae1a17f7
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
